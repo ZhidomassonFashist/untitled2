@@ -14,7 +14,7 @@ import java.awt.*;
 import java.awt.image.BufferedImage;
 
 public class Main extends JFrame {
-
+        ///asdasd
     static final int w = 1366;
     static final int h = 768;
 
